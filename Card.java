@@ -1,9 +1,3 @@
-/*
-David Bai
-db3818 
-Card.java - Card
-*/
-
 public class Card implements Comparable<Card>{
 	
 	private int suit; // use integers 1-4 to encode the suit
