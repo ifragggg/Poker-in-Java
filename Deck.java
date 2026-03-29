@@ -1,8 +1,3 @@
-/*
-David Bai
-db3818 
-Deck.java - Deck
-*/
 
 public class Deck {
 	
