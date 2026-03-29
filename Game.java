@@ -1,9 +1,3 @@
-/*
-David Bai
-db3818 
-Game.java - Game
-*/
-
 import java.util.Scanner;
 import java.util.ArrayList;
 import java.util.Collections;
