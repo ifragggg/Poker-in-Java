@@ -1,9 +1,3 @@
-/*
-David Bai
-db3818 
-Player.java - Player
-*/
-
 import java.util.ArrayList;
 
 public class Player {
