@@ -8,18 +8,7 @@ public class Game {
 	private Deck cards;
 		
 	
-	public Game(String[] testHand){ // ?
-		// This constructor is to help test your code.
-		// use the contents of testHand to
-		// make a hand for the player
-		// use the following encoding for cards
-		// c = clubs
-		// d = diamonds
-		// h = hearts
-		// s = spades
-		// 1-13 correspond to ace-king
-		// example: s1 = ace of spades
-		// example: testhand = {s1, s13, s12, s11, s10} = royal flush
+	public Game(String[] testHand){ 
 
 		p = new Player();
 		cards = new Deck();
